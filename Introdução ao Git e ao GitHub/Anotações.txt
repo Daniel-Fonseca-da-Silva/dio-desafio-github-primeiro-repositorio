@@ -1,3 +1,7 @@
+Fato curioso o Git foi desenvolvido pelo criador do Linux Linus Torvalds!
+
 Link para download do GIT: https://git-scm.com
 Git bash é um terminal extendido para otimizar o uso do GIT.
+
+
 
