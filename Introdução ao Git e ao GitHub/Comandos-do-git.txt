@@ -1,0 +1,9 @@
+Git init -> Cria a base para o git
+Git add . -> Adicionado todos os arquivos
+git commit -m "texto" -> Cria um commit escrito texto
+git push origin main -> Envia arquivos locais para o github
+git pull origin main -> Traz os arquivos do gitHub para o local
+git clone url -> Clona repositorio do github
+git status -> Checa arquivos alterados
+
+
