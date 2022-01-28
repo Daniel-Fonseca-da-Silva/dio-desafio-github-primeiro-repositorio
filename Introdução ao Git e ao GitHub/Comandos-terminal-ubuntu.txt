@@ -7,4 +7,6 @@ mkdir nome -> Cria uma pasta com nome
 ls -> Exibe elementos no local
 ls -a -> Exibe elementos ocultos do local
 clear -> Limpa terminal
-
+cd pasta -> Navega para uma pasta
+cd ../ -> Volta uma pasta
+pwd -> Exibe caminho atual
