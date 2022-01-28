@@ -1,0 +1,10 @@
+Comandos para o terminal do ubuntu
+
+sudo rmdir nome -> remove diretorio
+sudo rm -> remove arquivo tipo
+touch nome.extensão -> Cria um arquivo com uma extensão
+mkdir nome -> Cria uma pasta com nome
+ls -> Exibe elementos no local
+ls -a -> Exibe elementos ocultos do local
+clear -> Limpa terminal
+
